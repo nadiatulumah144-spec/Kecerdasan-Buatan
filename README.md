@@ -148,7 +148,8 @@ Berdasarkan pengujian pada 20% data uji, diperoleh hasil akurasi dan visualisasi
 
 ## 3. Hasil Evaluasi dan Confusion Matrix
 
-![gambar](foto/p10.1.png)
+<img width="800" height="600" alt="p10" src="https://github.com/user-attachments/assets/167b5222-45d9-4389-ae08-eec07c502132" />
 
 
-![gambar](foto/p10.png)
+<img width="548" height="364" alt="p10 1" src="https://github.com/user-attachments/assets/61cff724-67ff-42ed-ab2e-94a710f63079" />
+
